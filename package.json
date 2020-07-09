@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/jarsbe/node-prototype/issues"
   },
-  "homepage": "https://github.com/jarsbe/node-prototype#readme"
+  "homepage": "https://github.com/jarsbe/node-prototype#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
